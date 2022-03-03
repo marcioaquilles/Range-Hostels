@@ -23,7 +23,7 @@ Para rodar necessário somente executar o index.html no seu navegador de interne
 
 ## 📄 Licença
 
-Este projeto está sob a licença (MIT License) - veja o arquivo [LICENSE.md](https://gitlab.com/marcioaquilles/sistema-biblioteca-seminario-tematico-iv/-/blob/main/LICENSE) para detalhes.
+Este projeto está sob a licença (MIT License).
 
 ## 🎁 Expressões de gratidão
 
